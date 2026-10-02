@@ -1,16 +1,16 @@
 [
   {
     "id": "example-1",
-    "title": "أضف اسم الرابط هنا",
-    "description": "اكتب وصفاً قصيراً اختيارياً للرابط.",
-    "url": "https://example.com",
-    "icon": "globe"
+    "title": "تيليجرام",
+    "description": "للتواصل معنا",
+    "url": "https://t.me/AnasX_Top",
+    "icon": "Telegram"
   },
   {
     "id": "example-2",
-    "title": "رابط آخر",
-    "description": "غيّر الاسم والرابط والأيقونة من هذا الملف.",
-    "url": "https://youtube.com",
-    "icon": "youtube"
+    "title": "للتجريب فقط ",
+    "description": "انس اكس للتحريب ",
+    "url": "https://youtube.com/@anasx_0?feature=shared",
+    "icon": "يوتيوب"
   }
 ]
