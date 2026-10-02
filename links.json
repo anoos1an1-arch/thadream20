@@ -1,0 +1,16 @@
+[
+  {
+    "id": "example-1",
+    "title": "أضف اسم الرابط هنا",
+    "description": "اكتب وصفاً قصيراً اختيارياً للرابط.",
+    "url": "https://example.com",
+    "icon": "globe"
+  },
+  {
+    "id": "example-2",
+    "title": "رابط آخر",
+    "description": "غيّر الاسم والرابط والأيقونة من هذا الملف.",
+    "url": "https://youtube.com",
+    "icon": "youtube"
+  }
+]
